@@ -16,3 +16,4 @@ env/
 
 # OS files
 .DS_Store
+models/best_model.pkl
