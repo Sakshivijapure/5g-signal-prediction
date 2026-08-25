@@ -25,3 +25,23 @@ SS-RSRP (5G received signal strength)
 ## Project Status
 
 Initial project setup and dataset analysis.
+
+## Project Workflow
+
+The project follows a machine learning pipeline consisting of:
+
+1. Dataset exploration and understanding
+2. Data preprocessing and cleaning
+3. Feature selection and engineering
+4. Model training and evaluation
+5. 5G signal strength prediction
+6. Signal coverage visualization and mapping
+
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Machine Learning
