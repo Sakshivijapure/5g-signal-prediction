@@ -69,6 +69,26 @@ The project aims to produce:
 * A spatial 5G signal-strength coverage map
 * Identification of areas with potentially weak and strong signal coverage
 
+## Project Workflow
+
+The project follows a machine learning pipeline consisting of:
+
+1. Dataset exploration and understanding
+2. Data preprocessing and cleaning
+3. Feature selection and engineering
+4. Model training and evaluation
+5. 5G signal strength prediction
+6. Signal coverage visualization and mapping
+
+## Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Scikit-learn
+* Matplotlib
+* Machine Learning
+
 ## Project Status
 
 **Current Stage:** Initial project setup and dataset analysis.
